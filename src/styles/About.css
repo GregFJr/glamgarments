@@ -1,0 +1,12 @@
+.about {
+    background-color: black;
+    height: 90vh;
+}
+
+.about h1 {
+    margin: 0;
+}
+
+.about p {
+    color: white;
+}

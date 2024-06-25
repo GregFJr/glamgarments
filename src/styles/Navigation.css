@@ -1,0 +1,13 @@
+nav {
+    display: flex;
+    justify-content: end;
+    background-color: black;
+    height: 30px;
+}
+
+button {
+    background-color: none;
+    background: none;
+    border: none;
+    color: white;
+}
